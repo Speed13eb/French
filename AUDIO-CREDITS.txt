@@ -1,0 +1,10 @@
+French audio for Chez nous
+
+Generated with Piper 1.8.0 by the Open Home Foundation and contributors, using the fr_FR-siwis-medium French voice.
+Engine: https://github.com/OHF-Voice/piper1-gpl
+Voice model card: https://huggingface.co/rhasspy/piper-voices/blob/main/fr/fr_FR/siwis/medium/MODEL_CARD
+SIWIS French Speech Synthesis Database: https://datashare.is.ed.ac.uk/handle/10283/2353
+The voice model card identifies the SIWIS dataset license as Creative Commons Attribution 4.0.
+License: https://creativecommons.org/licenses/by/4.0/
+
+The classroom files use newly synthesized audio clips. The synthesis engine and voice model are not included in the exported HTML or presentation.
